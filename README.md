@@ -1,0 +1,13 @@
+# full_tk6757_66_n1-user 7.1.1 N4F26M 1529552319 release-keys
+- manufacturer: oukitel
+- platform: mt6757
+- codename: WP5000
+- flavor: full_tk6757_66_n1-user
+- release: 7.1.1
+- id: N4F26M
+- incremental: 1529552319
+- tags: release-keys
+- fingerprint: OUKITEL/WP5000/WP5000:7.1.1/N4F26M/1520077143:user/release-keys
+- brand: OUKITEL
+- branch: full_tk6757_66_n1-user-7.1.1-N4F26M-1529552319-release-keys
+- repo: oukitel_wp5000_dump
